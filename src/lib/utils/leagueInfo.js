@@ -27,6 +27,7 @@ As of receiving this newsletter, the trading window is reopened, allowing you to
 
 Tentative note: Once you set your keepers, it’s my impression that you can only deal picks from that point on, but I’m not sure about that - we’ll see what options are available once keepers are set. This implies that if you want to keep yourself open to receiving trade offers/making trade offers, it would be in your best interest to wait right up until the keeper deadline (see below), to lock in your eight core keeper players.
 
+
 Deadlines & Dates:
 The deadline to set your keepers is Thursday, August 29th, 2024, at 11:59pm est.
 The draft date is Sunday, September 1st, 2024, with a **proposed time of 8:08pm est.
