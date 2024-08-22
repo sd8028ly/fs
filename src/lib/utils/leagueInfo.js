@@ -7,81 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p> <p>Hi everyone :)</p>
+  <p> welcome to the natural fun league :) </p>
 
-<p>We are BACK with season 2 of FANTASY FOOTBALL.</p>
 
-<p>This season brings a few managerial changes:</p>
-
-<p>Baby Yumi has retired from managing her own roster, &amp; will be joining seafoamdreams for both leagues :)</p>
-
-<p>- Yumi's rosters are being inherited by Rene aka JuniorSeahhh<br>
-- Rene is my close friend from LA, please warmly welcome him :)<br>
-- Rene last played in one of our prior leagues in around 2020, &amp; took home the championship.<br>
-- The managerial changes listed above are effective immediately.</p>
-
-<p>Keepers, The Draft, &amp; Trading</p>
-
-<p>As a refresher, the type of fantasy we play is Keeper Style. Each season, we will each choose which eight (eleven in bball) players to keep as our core moving into the upcoming season. The players not chosen as keepers will enter the draft pool, joining the rookies from the most recent draft, &amp; already unclaimed free agents.</p>
-
-<p>Last offseason was our initial draft, which we were able to do as an auction style. This draft will be in the standard style, meaning when you're on the clock, who you choose joins your team.</p>
-
-<p>As of receiving this newsletter, the trading window is reopened, allowing you to make deals prior to committing to your core 8 keepers. You may trade players, picks, or players &amp; picks together. The only prohibited transaction is that you may not add any free agents.</p>
-
-<p>Tentative note: Once you set your keepers, it's my impression that you can only deal picks from that point on, but I'm not sure about that - we'll see what options are available once keepers are set. This implies that if you want to keep yourself open to receiving trade offers/making trade offers, it would be in your best interest to wait right up until the keeper deadline (see below), to lock in your eight core keeper players.</p>
-
-<p>Deadlines &amp; Dates:</p>
-
-<p>- The deadline to set your keepers is Thursday, August 29th, 2024, at 11:59pm est.<br>
-- The draft date is Sunday, September 1st, 2024, with a **proposed time of 8:08pm est.<br>
-- The NFL season kicks off Thursday, September 5th, 2024, at 8:20pm est.</p>
-
-<p>NOTE: **the draft time is currently pending, until everyone agrees upon a time that works for all :)</p>
-
-<p>Roster Adjustments</p>
-
-<p>We are making two roster adjustments for this season.</p>
-
-<p>- Starting Kickers are being reduced from 2 to 1.<br>
-- The IR slot is being increased from 1 to 2.</p>
-
-<p>This keeps our roster size the same, while respecting the impending certainty of injuries.</p>
-
-<p>We have decided on REWARDS for the annual winners of each league:</p>
-
-<p>The Jersey Tee</p>
-
-<p>- Winners will receive a jersey t-shirt (the more affordable fandom option)<br>
-- The tee must be of a player from their championship roster (star or meme player)<br>
-- The tee will be funded by the losing team in the subsequent league.<br>
-- EXAMPLE:<br>
- - In football, seafoamdreams finished first, while dangershoes finished last.<br>
- - seafoamdreams decides that J.Reed (for example) represented this championship the most.<br>
- - seafoamdreams texts a link of the J.Reed tee to dangershoes.<br>
- - dangershoes orders the tee for the champion, seafoamdreams.</p>
-
-<p>For this past football season, seafoamdreams is rewarded a jersey tee, of their choosing, courtesy of dangershoes - for this past basketball season, lonnerritchmundson is rewarded a jersey tee, of their choosing, courtesy of ampcow. Please handle these exchanges privately, in text messages outside of the group text.</p>
-
-<p>Traveling Trophies</p>
-
-<p>- Everyone has expressed a desire for our league to have a traveling trophy awarded to the champs.<br>
-- These trophies (one for basketball, one for football) have yet to be acquired.<br>
-- If anyone has something symbolic, bizarre, or too-good-to-not-use, please send pic in the group chat :)<br>
-- Otherwise, I'll keep checking thrift stores until the right object crosses my path; you may do the same.</p>
-
-<p>Rebrands</p>
-
-<p>- The French Loaves branding will be dissolved, &amp; replaced with what JuniorSeahhhh chooses.<br>
-- After accepting Yumi into their front office, The Safety Salamanders/Slamanaders will be rebranding, TBA.</p>
-
-<p>NOTE: In an ideal world, your team name is more of an organization name, acting as a team, &amp; should reflect the roleplay of such. EXAMPLE: The Greatest There Ever Was is a slogan, not the name of an organization/team. A more suitable name could be the Island City Goats, or perhaps the Great Fantasy Sports Club (GFSC).</p>
-
-<p>Ideally, this branding &amp; name is used for BOTH leagues, though is not a requirement. Any rebranding into more of a (roleplayed) actual team/organization further deepens the immersion into our little, fantasy world :)</p>
-
-<p>Feel free to rebrand your team(s), up until the season starts, at your leisure.</p>
-
-<p>xoxo seafoamdreams</p>
-</p>
 
 
 `;
