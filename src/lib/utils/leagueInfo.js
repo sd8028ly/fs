@@ -10,7 +10,8 @@ export const homepageText = `
   <p> hi </p>
 
 !(https://i.postimg.cc/k2frGmzy/Screenshot-2024-08-22-at-3-16-35-PM.png)
-![pic2 of initial newsletter] (https://postimg.cc/FfRMJ6QX][img]https://i.postimg.cc/FfRMJ6QX/Screenshot-2024-08-22-at-3-16-51-PM.png)
+
+!(https://i.postimg.cc/FfRMJ6QX/Screenshot-2024-08-22-at-3-16-51-PM.png)
 
 `;
 
