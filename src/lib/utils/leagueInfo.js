@@ -9,9 +9,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p> hi </p>
 
-[url=https://postimg.cc/k2frGmzy][img]https://i.postimg.cc/k2frGmzy/Screenshot-2024-08-22-at-3-16-35-PM.png[/img][/url]
-
-[url=https://postimg.cc/FfRMJ6QX][img]https://i.postimg.cc/FfRMJ6QX/Screenshot-2024-08-22-at-3-16-51-PM.png[/img][/url]
+![pic of initial newsletter] (https://postimg.cc/k2frGmzy][img]https://i.postimg.cc/k2frGmzy/Screenshot-2024-08-22-at-3-16-35-PM.png)
+![pic2 of initial newsletter] (https://postimg.cc/FfRMJ6QX][img]https://i.postimg.cc/FfRMJ6QX/Screenshot-2024-08-22-at-3-16-51-PM.png)
 
 `;
 
